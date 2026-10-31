@@ -56,4 +56,4 @@ The app does **not** collect or send:
 
 ## Contact
 
-For questions about this privacy policy, email mahoneyclanapps+simpleglanceweather@gmail.com.
+For questions about this privacy policy, email mahoneyclanapps+simpleglance_weatherwidget@gmail.com.

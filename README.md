@@ -11,7 +11,7 @@ SimpleGlance Weather is a clean, minimal weather widget for Garmin fenix watches
 
 ## Get help
 
-Questions, problems or ideas? Email **[mahoneyclanapps+simpleglanceweather@gmail.com](mailto:mahoneyclanapps+simpleglanceweather@gmail.com)**.
+Questions, problems or ideas? Email **[mahoneyclanapps+simpleglance_weatherwidget@gmail.com](mailto:mahoneyclanapps+simpleglance_weatherwidget@gmail.com)**.
 
 To help us answer quickly, please include:
 
